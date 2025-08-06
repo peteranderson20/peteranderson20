@@ -1,6 +1,6 @@
 # Hi, I'm Peter Anderson 👋
 
-**Computer Science Student | Aspiring Machine Learning Scientist | Software Developer**
+**Data Science Student | Aspiring Machine Learning Scientist | Software Developer**
 
 ---
 
