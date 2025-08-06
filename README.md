@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a computer science student at the University of Minnesota with a passion for machine learning and software development. I enjoy working on projects that challenge my skills and deepen my understanding of the technologies I love.
+I'm a data science student at the University of Minnesota with a passion for machine learning and software development. I enjoy working on projects that challenge my skills and deepen my understanding of the technologies I love.
 
 ---
 
@@ -20,14 +20,14 @@ I'm a computer science student at the University of Minnesota with a passion for
 
 ## Current Projects
 
-I am currently focused on deepening my understanding of machine learning through various projects that help solidify my knowledge and skills in this field.
+I am currently focused on deepening my understanding of machine learning. I have recently made a transition to Pytorch because of its high customizability compared to Tensorflow/Keras. 
 
 ---
 
 ## Skills
 
 - **Programming Languages**: Python, Java, SQL
-- **Machine Learning Tools**: Jupyter Notebook, pandas, numpy, matplotlib, scikit-learn, Keras, TensorFlow
+- **Machine Learning Tools**: Jupyter Notebook, pandas, numpy, matplotlib, scikit-learn, Keras, TensorFlow, pytorch. 
 - **Development Tools**: IntelliJ IDEA, Git
 
 ---
@@ -41,7 +41,7 @@ I am currently focused on deepening my understanding of machine learning through
 
 ## Contact
 
-- **Email**: peter.b.anderson20@gmail.com
+- **Email**: and09822@umn.edu
 
 Feel free to reach out if you have any questions or if you are interested in collaborating on a project!
 
